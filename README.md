@@ -13,6 +13,7 @@ Disclaimer
 Using automated bots or scripts on Roblox can potentially violate their terms of service. The Roblox Follow Bot is provided as an educational and experimental project, and we do not endorse or encourage any misuse or violation of Roblox's policies. Use this tool responsibly and at your own risk.
 
 Support
-If you want to use the bot or have any questions, feel free to reach out to the project owners on our Discord server: https://discord.gg/nc4dGzD9w2
+If you want to use the bot or have any questions, feel free to reach out to the project owners on our Discord server: 
+https://discord.gg/gGFpPqxNJm
 
 ⭐ Star the project if you find it useful and would like to support its development! ⭐
